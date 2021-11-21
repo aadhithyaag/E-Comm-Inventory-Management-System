@@ -1,7 +1,7 @@
 # E-Comm-Inventory-Management-System
 Software Application to facilitate management of an Inventory for E-Commerce Retailers
 
-This is a project I did for School in regards to the subject Software Engineering. The idea behind this app is to allow E-Commerce Retailers to keep track of the amount of stock present for each product they sell on multiple E-Commerce platforms such as Flipkart, Amazon and so on. Upon keeping track of the stock present, dead stock (stock which isn't being sold and is present in the inventory for a long time) can be removed and in situtations of natural disasters, stocks can be identified and kept out seperately to hlp the needy.
+This is a project I did for School in regards to the subject Software Engineering. The idea behind this app is to allow E-Commerce Retailers to keep track of the amount of stock present for each product they sell on multiple E-Commerce platforms such as Flipkart, Amazon and so on. Upon keeping track of the stock present, dead stock (stock which isn't being sold and is present in the inventory for a long time) can be removed and in situtations of natural disasters, stocks can be identified and kept out seperately to help the needy.
 
 Interesting Features included are as follows:<br/>
 **1. Secure Login through a secret password which is stored in a text file. Text file is further secured by performing encryption using DES Algorithm.**<br/>
